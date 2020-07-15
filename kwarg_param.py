@@ -1,4 +1,4 @@
-    def arg_kwarg_param(*args,**kwargs) :
+def arg_kwarg_param(*args,**kwargs) :
    
     print(len(args))
     print(len(kwargs))
