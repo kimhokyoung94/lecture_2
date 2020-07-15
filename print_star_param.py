@@ -3,4 +3,4 @@ def print_star_param(n):
         print('**********************************')
     # print('*************************************')
 
-print_star_param(400000000000000000)
+print_star_param(4)
